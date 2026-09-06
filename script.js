@@ -18,8 +18,8 @@ form.addEventListener('submit', (e) => {
 
     // BUG (Issue 3): We want to show error if name is empty OR email does not contain @.
     // The current code incorrectly uses && instead of ||
-    if (name === '' && !email.includes('@')) { 
-        message.style.color = 'red';
+if (name === '' || !email.includes('@')) { 
+            message.style.color = 'red';
         message.textContent = 'Error: Name is required and email must contain @';
     } else {
         message.style.color = 'green';
