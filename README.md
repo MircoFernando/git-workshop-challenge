@@ -1,6 +1,6 @@
 # 🚀 Beginner Git & GitHub Workshop Challenge
 
-Welcome to the Git & GitHub Workshop! In this activity, you'll work in teams of 3 to collaborate on fixing intentionally broken code using a real Git branching, reviewing, and pull request workflow. 
+Welcome to the Git & GitHub Workshop! In this activity, you'll work in teams to collaborate on fixing intentionally broken code using a real Git branching, reviewing, and pull request workflow. 
 
 > **Note:** Remember, we are not focusing on the code here, but rather on the Git and GitHub practices!
 
